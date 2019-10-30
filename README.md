@@ -19,3 +19,8 @@ Ultimate
 Reference resources:
 https://learn.watterott.com/silentstepstick/
 https://www.airspayce.com/mikem/arduino/AccelStepper/
+
+Reference Repositories
+https://github.com/geilx/SilentStepStick
+https://github.com/geilx/TMCStepper
+https://github.com/geilx/TMC-API
