@@ -24,3 +24,5 @@ Reference Repositories
 https://github.com/geilx/SilentStepStick
 https://github.com/geilx/TMCStepper
 https://github.com/geilx/TMC-API
+
+Trying to do this correctly
